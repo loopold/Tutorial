@@ -2,4 +2,4 @@
 
 opis
 
-README added in 1.0
+README fixed in 1.1
